@@ -5,7 +5,7 @@ Folder 'Ano_syn_#1', 'Ano_syn_#2', and 'Ano_syn_#3' are the data of single type 
   * Spatial_anomaly_mat_[#1/#2/#3/mix].csv are true values of simulated anomalies.
   * Spatial_ave_mat.csv is traffic speed under normal conditions (row: road segment, column: time interval)
   * Spatial_syn_mat_[#1/#2/#3/mix].csv are traffic speed after injecting traffic anomalies (#1/#2/#3: single-type, _mix: mixed-type).
-  ## ST-LRST.py is the code of the anomaly detection algorithm proposed in this paper.*
+  ST-LRST.py is the code of the anomaly detection algorithm proposed in this paper.
 
 AA_xian.csv is the adjacency matrix A of the urban road network.
 Free_speed.csv represents free flow speed of each road.
@@ -14,5 +14,4 @@ Free_speed.csv represents free flow speed of each road.
 DIDI Chuxing GAIA Initiative (https://sts.didiglobal.com).
 
 # Package:
-Tensorly: http://tensorly.org/stable/index.html
-## Note the effect of different unfolding or folding methods on tensor construction.
+Tensorly: http://tensorly.org/stable/index.html [Note the effect of different unfolding or folding methods on tensor construction.]
