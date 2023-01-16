@@ -1,4 +1,3 @@
-
 ## Code for ST-LRST
 - Folders 'Ano_syn_#1', 'Ano_syn_#2', and 'Ano_syn_#3' are data and codes for single-type anomalies of different scales. Folder 'Ano_syn_mix' is the data and code for mixed-type anomalies. Each folder contains:
   - Spatial_anomaly_infor_[#1/#2/#3/mix].csv contain anomaly information of simulation anomalies at different scales, where
