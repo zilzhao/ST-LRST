@@ -7,7 +7,7 @@
   - Spatial_syn_mat_[#1/#2/#3/mix].csv are traffic speed after injecting traffic anomalies (#1/#2/#3: single-type, mix: mixed-type).
   - *ST-LRST_[#1/#2/#3/mix].py are codes of the anomaly detection algorithm proposed in this paper.*
 
-- AA_xian.csv is the adjacency matrix A of the urban road network.
+- AA_xian.csv is the adjacency matrix *A* of the urban road network.
 - Free_speed.csv represents free flow speed of each road.
 
 ## Data source: 
